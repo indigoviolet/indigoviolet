@@ -5,7 +5,7 @@ learning), and occasionally consulting for bounded projects.
 
 Here are some side projects I have built recently:
 
-- 🔧 [nbmetadata](http://github.com/indigoviolet/nbmetadata): Utility to manage Jupyter notebook metadata
+- 🔧 [nbtag](http://github.com/indigoviolet/nbtag): Utility to manage Jupyter notebook metadata
 - ⏱️ [torchprof](http://github.com/indigoviolet/torchprof): Profile PyTorch models
 - 🔨 [shapeguard](http://github.com/indigoviolet/shapeguard): Shape assertions for PyTorch
 - 🔥 [pytorch-summary](http://github.com/indigoviolet/pytorch-summary): Produce detailed summaries of PyTorch model shape, size, receptive field etc.
