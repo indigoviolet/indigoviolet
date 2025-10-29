@@ -1,14 +1,2 @@
-### Current/Recent Projects
+I am a cofounder at Additive AI, which was recently acquired by Thomson Reuters.
 
-I am currently on a sabbatical, working on personal projects (related to deep
-learning), and occasionally consulting for bounded projects.
-
-Here are some side projects I have built recently:
-
-- 🔧 [nbtag](http://github.com/indigoviolet/nbtag): Utility to manage Jupyter notebook metadata
-- ⏱️ [torchprof](http://github.com/indigoviolet/torchprof): Profile PyTorch models
-- 🔨 [shapeguard](http://github.com/indigoviolet/shapeguard): Shape assertions for PyTorch
-- 🔥 [pytorch-summary](http://github.com/indigoviolet/pytorch-summary): Produce detailed summaries of PyTorch model shape, size, receptive field etc.
-- ⏩ [direnv-cache](http://github.com/indigoviolet/direnv-cache): Caching for direnv
-- 📓 [Coconotes](https://coconotes.romansix.org/): React Native app to take quick notes to self (and others)
-- 🐍 [mypy-missing-imports](http://github.com/indigoviolet/mypy-missing-imports): Handle missing imports in Mypy efficiently.
